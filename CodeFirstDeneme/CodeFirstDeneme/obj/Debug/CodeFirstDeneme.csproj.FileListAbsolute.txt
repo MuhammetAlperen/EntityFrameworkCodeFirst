@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\CodeFirstDeneme.exe.config
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\CodeFirstDeneme.exe
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\CodeFirstDeneme.pdb
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.csproj.CopyComplete
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.exe
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.pdb
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.Migrations.CodeFirst.resources
+C:\Users\HP\source\repos\CodeFirstDeneme\CodeFirstDeneme\obj\Debug\CodeFirstDeneme.csproj.GenerateResource.cache
